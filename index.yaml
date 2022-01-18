@@ -1,5 +1,5 @@
 page:
-  siteTitle: Tristan
+  siteTitle: Tristans
   siteName: Tristan
   headHtml: |
     <link href="https://cdn.jsdelivr.net/npm/prismjs@1.23.0/themes/prism-tomorrow.css" rel="stylesheet" />
