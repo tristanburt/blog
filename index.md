@@ -9,7 +9,7 @@ template:
       bodyClass: overflow-y-scroll bg-gray-100
 ---
 
-# Sridhar Ratnakumar
+# Tristan
 
 This file is not rendered, but the metadata is used.
 
